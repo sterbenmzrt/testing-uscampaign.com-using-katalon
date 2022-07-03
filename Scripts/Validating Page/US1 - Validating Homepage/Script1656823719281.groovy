@@ -46,6 +46,8 @@ WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Us Web Object/click challenge environment'))
 
+WebUI.delay(3)
+
 WebUI.waitForElementPresent(findTestObject('Us Web Object/verify challenge environment'), 2)
 
 WebUI.verifyElementPresent(findTestObject('Us Web Object/verify challenge environment'), 0)
@@ -54,6 +56,8 @@ WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Us Web Object/click challenge equality'))
 
+WebUI.delay(3)
+
 WebUI.waitForElementPresent(findTestObject('Us Web Object/verify challenge equality'), 2)
 
 WebUI.verifyElementPresent(findTestObject('Us Web Object/verify challenge equality'), 0)
@@ -61,6 +65,8 @@ WebUI.verifyElementPresent(findTestObject('Us Web Object/verify challenge equali
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Us Web Object/click challenge health'))
+
+WebUI.delay(3)
 
 WebUI.waitForElementPresent(findTestObject('Us Web Object/verify challenge health'), 2)
 
@@ -83,4 +89,6 @@ WebUI.takeScreenshot()
 WebUI.scrollToElement(findTestObject('Us Web Object/scroll to download campaign'), 0)
 
 WebUI.takeScreenshot()
+
+WebUI.closeBrowser()
 

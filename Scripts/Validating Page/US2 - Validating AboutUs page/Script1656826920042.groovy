@@ -26,43 +26,37 @@ WebUI.maximizeWindow()
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Programs object/click programs'))
-
-WebUI.delay(5)
+WebUI.click(findTestObject('About Us object/click about us'))
 
 WebUI.waitForPageLoad(3)
 
-WebUI.takeScreenshot()
-
-WebUI.scrollToElement(findTestObject('Programs object/scroll to open calls'), 0)
+WebUI.delay(5)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Programs object/scroll to social fair week'), 0)
+WebUI.scrollToElement(findTestObject('About Us object/scroll to about us'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Programs object/scroll to events'), 0)
+WebUI.scrollToElement(findTestObject('About Us object/scroll to our mission'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Programs object/scroll to programs'), 0)
-
-WebUI.waitForElementPresent(findTestObject('Programs object/verify programs'), 3)
-
-WebUI.verifyElementPresent(findTestObject('Programs object/verify programs'), 0)
+WebUI.scrollToElement(findTestObject('About Us object/scroll to how we work'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Programs object/scroll to career'), 0)
-
-WebUI.waitForElementPresent(findTestObject('Programs object/verify career'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Programs object/verify career'), 0)
+WebUI.scrollToElement(findTestObject('About Us object/scroll to our value'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Programs object/scroll last footer'), 0)
+WebUI.scrollToElement(findTestObject('About Us object/scroll to our journey'), 0)
 
 WebUI.takeScreenshot()
+
+WebUI.scrollToElement(findTestObject('About Us object/scroll jump to 2013'), 0)
+
+WebUI.takeScreenshot()
+
+WebUI.closeBrowser()
 

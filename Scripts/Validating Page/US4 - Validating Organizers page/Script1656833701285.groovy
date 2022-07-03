@@ -26,33 +26,49 @@ WebUI.maximizeWindow()
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('About Us object/click about us'))
+WebUI.click(findTestObject('Organizers object/click organizers'))
 
 WebUI.waitForPageLoad(3)
 
-WebUI.takeScreenshot()
-
-WebUI.scrollToElement(findTestObject('About Us object/scroll to about us'), 0)
+WebUI.delay(5)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('About Us object/scroll to our mission'), 0)
+WebUI.scrollToElement(findTestObject('Organizers object/scroll to our organizers'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('About Us object/scroll to how we work'), 0)
+WebUI.scrollToElement(findTestObject('Organizers object/scroll to campaign challenges'), 0)
+
+WebUI.waitForElementPresent(findTestObject('Organizers object/verify campaign challenges'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Organizers object/verify campaign challenges'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('About Us object/scroll to our value'), 0)
+WebUI.scrollToElement(findTestObject('Organizers object/scroll to onboarding'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('About Us object/scroll to our journey'), 0)
+WebUI.scrollToElement(findTestObject('Organizers object/scroll to success'), 0)
+
+WebUI.waitForElementPresent(findTestObject('Organizers object/verify success stories'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Organizers object/verify success stories'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('About Us object/scroll jump to 2013'), 0)
+WebUI.scrollToElement(findTestObject('Organizers object/scroll to collaborate'), 0)
 
 WebUI.takeScreenshot()
+
+WebUI.scrollToElement(findTestObject('Organizers object/scroll to guidebook'), 0)
+
+WebUI.takeScreenshot()
+
+WebUI.scrollToElement(findTestObject('Organizers object/scroll to last footer'), 0)
+
+WebUI.takeScreenshot()
+
+WebUI.closeBrowser()
 

@@ -26,45 +26,25 @@ WebUI.maximizeWindow()
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Organizers object/click organizers'))
+WebUI.click(findTestObject('FAQ object/click FAQ'))
 
-WebUI.waitForPageLoad(3)
-
-WebUI.takeScreenshot()
-
-WebUI.scrollToElement(findTestObject('Organizers object/scroll to our organizers'), 0)
+WebUI.delay(5)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Organizers object/scroll to campaign challenges'), 0)
+WebUI.scrollToElement(findTestObject('FAQ object/scroll to FAQ category'), 0)
 
-WebUI.waitForElementPresent(findTestObject('Organizers object/verify campaign challenges'), 0)
+WebUI.waitForElementPresent(findTestObject('FAQ object/verify icon FAQ'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Organizers object/verify campaign challenges'), 0)
+WebUI.verifyElementPresent(findTestObject('FAQ object/verify icon FAQ'), 0)
 
-WebUI.takeScreenshot()
+WebUI.scrollToElement(findTestObject('FAQ object/scroll to last footer'), 0)
 
-WebUI.scrollToElement(findTestObject('Organizers object/scroll to onboarding'), 0)
+WebUI.waitForElementPresent(findTestObject('FAQ object/verify FAQ Question'), 0)
 
-WebUI.takeScreenshot()
-
-WebUI.scrollToElement(findTestObject('Organizers object/scroll to success'), 0)
-
-WebUI.waitForElementPresent(findTestObject('Organizers object/verify success stories'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Organizers object/verify success stories'), 0)
+WebUI.verifyElementPresent(findTestObject('FAQ object/verify FAQ Question'), 0)
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Organizers object/scroll to collaborate'), 0)
-
-WebUI.takeScreenshot()
-
-WebUI.scrollToElement(findTestObject('Organizers object/scroll to guidebook'), 0)
-
-WebUI.takeScreenshot()
-
-WebUI.scrollToElement(findTestObject('Organizers object/scroll to last footer'), 0)
-
-WebUI.takeScreenshot()
+WebUI.closeBrowser()
 

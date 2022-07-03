@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[@class='EmblaSlider_embla__container__73vx4']/div[contains(.,&quot;#GEAR'edUpForWellnessgearrecoveryinc#GEAR’edUpForWellness3 actions = Rp42.00089&quot;)]</value>
+         <value>//div[@class='EmblaSlider_embla__container__73vx4']/div[contains(.,&quot;#GEAR'edUpForWellnessgearrecoveryinc#GEAR’edUpForWellness3 actions = Rp42.00091&quot;)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//div[@class='EmblaSlider_embla__container__73vx4']/div[contains(.,&quot;#GEAR'edUpForWellnessgearrecoveryinc#GEAR’edUpForWellness3 actions = Rp42.00089&quot;)]</value>
-      <webElementGuid>fefa5e2a-2308-4218-8576-c3b974c1611c</webElementGuid>
+      <value>//div[@class='EmblaSlider_embla__container__73vx4']/div[contains(.,&quot;#GEAR'edUpForWellnessgearrecoveryinc#GEAR’edUpForWellness3 actions = Rp42.00091&quot;)]</value>
+      <webElementGuid>8b8bd8a4-c860-4b71-aced-f783887ecc46</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
