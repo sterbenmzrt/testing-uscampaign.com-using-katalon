@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click challenge equality</name>
+   <tag></tag>
+   <elementGuidId>c9ba1518-4864-4fb1-b50d-e4b2ca6caacb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[4]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c51b4269-b577-430f-b8cc-c05120b07e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ReadyJoinChallanges_contEachNav__HAdBB</value>
+      <webElementGuid>0566ad49-0487-408c-80c1-63cac0e164e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e578c23b-1440-480d-a935-081623f80be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;img alt=&quot;Icon Equality&quot; srcSet=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=32&amp;amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=48&amp;amp;q=75 2x&quot; src=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=48&amp;amp;q=75&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain&quot; loading=&quot;lazy&quot;/>Equality</value>
+      <webElementGuid>71541e48-139f-4896-bf0e-bc50dce4ad7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;GeneralLayout_contGeneral__FDHOU&quot;]/div[@class=&quot;GeneralLayout_childrenFlex__XWsLf&quot;]/div[1]/div[@class=&quot;ReadyJoinChallanges_contReadyJoinChallange__Lunm_&quot;]/div[@class=&quot;ReadyJoinChallanges_contNavGroupSlider__kISlg&quot;]/div[@class=&quot;ReadyJoinChallanges_contEachNav__HAdBB&quot;]</value>
+      <webElementGuid>cd22c832-47a4-41a6-821f-6dc99bfb4927</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[4]/div[2]/div[3]</value>
+      <webElementGuid>c53c6d5d-2005-4960-8eb2-4a565f6f687a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready to join the Challenge?'])[1]/following::div[10]</value>
+      <webElementGuid>3cdd1d73-684a-4e7f-87b7-cb22cd2ecc69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign #ForChange App Features'])[1]/following::div[37]</value>
+      <webElementGuid>f797f084-9d25-4833-b32a-aeaa5190f47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What They Say About Campaign #ForChange'])[1]/preceding::div[129]</value>
+      <webElementGuid>83e9dce9-7943-44f6-a3ce-20ffb562ce52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lets Collaborate'])[2]/preceding::div[168]</value>
+      <webElementGuid>dee77880-e58b-42f4-83ba-98203bb8bd6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[3]</value>
+      <webElementGuid>f903a41c-15b6-4404-b3d4-d2730a31e4c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '&lt;img alt=&quot;Icon Equality&quot; srcSet=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=32&amp;amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=48&amp;amp;q=75 2x&quot; src=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=48&amp;amp;q=75&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain&quot; loading=&quot;lazy&quot;/>Equality' or . = '&lt;img alt=&quot;Icon Equality&quot; srcSet=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=32&amp;amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=48&amp;amp;q=75 2x&quot; src=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIconEquality.e6b39710.png&amp;amp;w=48&amp;amp;q=75&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain&quot; loading=&quot;lazy&quot;/>Equality')]</value>
+      <webElementGuid>ca57c1a1-4969-4e3f-a479-6f5be4955a34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
